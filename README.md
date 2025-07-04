@@ -1,6 +1,7 @@
 ## Hi there 👋
-I'm Pavel
-IT: Networks, Linux, Integrations, Projects
+I'm Pavel <br />
+
+IT: Networks, Linux, Integrations, Projects <br />
 Languages: Russian (native), English, Estonian
 
 📫 How to reach me:
